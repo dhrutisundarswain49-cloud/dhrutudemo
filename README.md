@@ -1,2 +1,2 @@
-# dhrutudemo
+# dhrutidemo
 This is my first github repository
